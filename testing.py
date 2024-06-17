@@ -6,7 +6,7 @@ import numpy as np
 model = load_model('/content/drive/MyDrive/my_model.h5')
 
 # Load the test image
-test_image_path = '/content/image_170.jpg'
+test_image_path = '/content/drive/MyDrive/dataset/test/glaucoma/image_170.jpg'
 test_image = load_img(test_image_path, target_size=(224, 224))
 
 # Convert the test image to a numpy array
