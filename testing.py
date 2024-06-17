@@ -3,7 +3,7 @@ from tensorflow.keras.preprocessing.image import load_img, img_to_array
 import numpy as np
 
 # Load the trained model
-model = load_model('/content/my_model.h5')
+model = load_model('/content/drive/MyDrive/my_model.h5')
 
 # Load the test image
 test_image_path = '/content/image_170.jpg'
