@@ -12,4 +12,5 @@ Model: The VGG-19 architecture, a well-liked architecture for image recognition 
 Pipelining: The deep learning and machine learning models are combined using pipelining to increase the precision of the glaucoma detection model. The best features and methods from the deep learning and machine learning models are combined to create the final model.
 
 Evaluation: Accuracy curves like area under the curve (AUC) and receiver operating characteristic (ROC) are used to assess how well the glaucoma detection model performs. To evaluate the effectiveness of the model and choose the best threshold for classification, the AUC and ROC curves are utilised.
+
 ![image](https://github.com/priyak307/Automated-Detection-of-Glaucoma-Using-Deep-Learning-Techniques/assets/104674161/41c9a279-171e-4e3c-85dc-4a0e3c5800db)
